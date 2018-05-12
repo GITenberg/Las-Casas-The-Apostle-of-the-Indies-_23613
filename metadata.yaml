@@ -1,0 +1,25 @@
+_repo: Las-Casas-The-Apostle-of-the-Indies-_23613
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Knight, Alice J.
+    gutenberg_agent_id: '25942'
+    url: http://www.gutenberg.org/2009/agents/25942
+description: ''
+gutenberg_issued: '2007-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23613'
+  lccn: '18000288'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'Casas, Bartolomé de las, 1474-1566'
+title: 'Las Casas: "The Apostle of the Indies"'
+url: http://www.gutenberg.org/ebooks/23613
